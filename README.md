@@ -69,7 +69,7 @@ The project has been successfully deployed using Netlify. You can access the pro
 
 ### Deployment status :
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a9be8e5e-574a-4a65-9886-9920c468567e/deploy-status)](https://app.netlify.com/sites/prismatic-seahorse-8a8d12/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2a56a8d4-7e95-473a-ad0b-87742a80cb69/deploy-status)](https://app.netlify.com/sites/rizqi-week4/deploys)
 
 ---
 
