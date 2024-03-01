@@ -257,6 +257,7 @@ input[type="date"] {
 
 #form-section {
     font-family: "permanent", "Courier New", monospace;
+    text-shadow: 2px 2px 2px rgb(255, 0, 0);
     letter-spacing: 2px;
     background-image: url(Assets/image/GTR\ R34\ BURNOUT\ BACK.webp);
     background-position: top center;
